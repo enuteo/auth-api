@@ -1,4 +1,4 @@
-package bes.tcc.auth_api.auth;
+package bes.tcc.auth_api.service;
 
 import bes.tcc.auth_api.config.KeycloakProperties;
 import bes.tcc.auth_api.dto.LoginRequest;
